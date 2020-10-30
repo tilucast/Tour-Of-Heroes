@@ -1,3 +1,8 @@
+# Tour Of Heroes
+
+This is the tutorial project available on Angular's website. Please, refer to https://angular.io/tutorial for more information.
+
+
 # AngularAppTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
